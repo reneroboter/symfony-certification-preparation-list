@@ -10,7 +10,7 @@ If you're looking for other people who are interested (or have) certification. P
 
 Please help add new links/info. We currently have not all topics covered. For more information refer to the [Contributing page](contributing.md).
 
-The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). The master branch contains information for the 4.0 certification. For 3.0, check the 3.0 branch. We do not have a list for 2.3 certification.
+The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). The master branch contains information for the 5.0 certification. For 3.0, check the 3.0 branch. We do not have a list for 2.3 certification.
 
 ## Table of Contents
 
@@ -41,7 +41,6 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [License](/topics/symfony-architecture.md#license)
     - [Components](/topics/symfony-architecture.md#components)
     - [Bridges](/topics/symfony-architecture.md#bridges)
-    - [Configuration](/topics/symfony-architecture.md#configuration)
     - [Code organization](/topics/symfony-architecture.md#code-organization)
     - [Request handling](/topics/symfony-architecture.md#request-handling)
     - [Exception handling](/topics/symfony-architecture.md#exception-handling)
@@ -50,6 +49,9 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Release management](/topics/symfony-architecture.md#release-management)
     - [Backward compatibility promise](/topics/symfony-architecture.md#backward-compatibility-promise)
     - [Deprecations best practices](/topics/symfony-architecture.md#deprecations-best-practices)
+    - [Framework overloading](/topics/symfony-architecture.md#framework-overload)
+    - [Release management and roadmap schedule](/topics/symfony-architecture.md#release-management-and-roadmap-schedule)
+    - [Naming conventions](/topics/symfony-architecture.md#naming-conventions)
 - [Standardization](/topics/standardization.md)
     - [Release management and roadmap schedule](/topics/standardization.md#release-management-and-roadmap-schedule)
     - [Framework interoperability and PSRs](/topics/standardization.md#framework-interoperability-and-psrs)
